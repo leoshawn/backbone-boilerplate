@@ -4,7 +4,7 @@
 
   "dependencies": {
     "grunt": "~0.4",
-    "grunt-bbb-server": "0.1.0-alpha"
+    "grunt-bbb-server": "0.1.1"
   },
 
   "jam": {
